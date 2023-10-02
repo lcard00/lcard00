@@ -1,8 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Cardoso!</strong>
 
 > Apaixonado por tecnologia desde criança.
-> Fã de RPG e de games no geral, mas apaixonado por RPG..
-> Trabalhei na área de informática desde os meus 16 anos.
+> Fã de RPG e de games no geral, mas apaixonado por RPG... 🤪
+> Trabalho na área de informática desde os meus 16 anos.
 > Atualmente estou a procura de emprego, minha última experiência foi com banco de dados mySQL e SQL Server.
 > Tenho estudado bastante sobre python e estou cada vez mais apaixonado por programação.
 
