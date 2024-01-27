@@ -1,16 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Cardoso!</strong>
 
 > Apaixonado por tecnologia desde criança. Fã de Games, em especial RPG.. 
-> Trabalho com TI desde os meus 16 anos e atualmente estou a procura de emprego. 
-> Minha ultima experiência foi com banco de dados, em especial MySQL e SQL Server. 
+> Trabalho com TI desde os meus 16 anos.. 
+> Minha ultima experiência em TI foi com banco de dados, em especial MySQL e SQL Server. 
 
 >Atualmente tenho estudado programação, em especial Python e C#.
-
-🔭 Desenvolvi alguns mods para o jogo Baldur's Gate 3 da Larian Studios e nos últimos dias estou focado em um projeto 
-para traduzir legendas .srt de forma automática, utilizando o módulo deep-translator do  python.
-
-
-
 
 💬 Qualquer dúvida sobre algo do meu GitHub ou caso queira conversar comigo sobre qualquer assunto, entre em contato no meu instagram ou linkedin.
 
