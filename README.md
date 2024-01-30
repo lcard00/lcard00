@@ -2,7 +2,7 @@
 
 >Minha jornada profissional começou aos 16 anos, e desde então venho cultivando habilidades especializadas em diversas áreas da TI. 
 
->Recentemente, concentrei meu foco em gerenciamento e otimização de bancos de dados, com expertise em plataformas como MySQL e SQL Server.
+>Recentemente, concentrei meu foco em gerenciamento e otimização de bancos de dados, como MySQL e SQL Server.
 
 >Estou sempre em busca de desafios que me permitam expandir meus conhecimentos e contribuir de forma significativa para projetos inovadores
 
