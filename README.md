@@ -1,10 +1,9 @@
 ## 💜 Olá, meu nome é <strong>Leonardo Cardoso!</strong>
 
-> Apaixonado por tecnologia desde criança. Fã de Games, em especial RPG.. 
-> Trabalho com TI desde os meus 16 anos.. 
-> Minha ultima experiência em TI foi com banco de dados, em especial MySQL e SQL Server. 
+>Minha jornada profissional começou aos 16 anos, e desde então venho cultivando habilidades especializadas em diversas áreas da TI. 
+>Recentemente, concentrei meu foco em gerenciamento e otimização de bancos de dados, com expertise em plataformas como MySQL e SQL Server.
 
->Atualmente tenho estudado programação, em especial Python e C#.
+>Estou sempre em busca de desafios que me permitam expandir meus conhecimentos e contribuir de forma significativa para projetos inovadores
 
 💬 Qualquer dúvida sobre algo do meu GitHub ou caso queira conversar comigo sobre qualquer assunto, entre em contato no meu instagram ou linkedin.
 
