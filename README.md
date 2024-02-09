@@ -14,7 +14,7 @@
       src="https://www.freeiconspng.com/uploads/instagram-logo-icon--icon-search-engine-5.png"
       alt="Instagram" />
   </a> 
-  <a href="https://www.linkedin.com/in/leonardo-cardoso-648986275/">
+  <a href="https://www.linkedin.com/in/leonardo-cardoso-silva-44b3bb2b0/">
     <img
       height="32"
       src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png"
