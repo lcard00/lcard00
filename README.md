@@ -37,6 +37,3 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcard00&show_icons=true)
